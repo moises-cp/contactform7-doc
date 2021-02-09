@@ -3,12 +3,12 @@
 
 # Input Field
 
-## Hidden Declaration
+## Hidden
 
-```
-/**
- * - phone is the name
- * - "(111) 111-1111" is the value
- */
-[hidden phone "(111) 111-1111"]
-```
+### Example 1
+
+`[hidden phone "(111) 111-1111"]`
+|hidden|Indicate a hidden type input field|
+|:--:|:--:|
+|phone|This is the name of the field|
+|"(111) 111-1111"|This is the value of the field|
